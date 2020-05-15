@@ -1,0 +1,20 @@
+.icons {
+    text-align: center;
+}
+
+.icons li {
+    display: inline-block;
+    list-style-type: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+
+.icons li a {
+    border-bottom: none;
+}
+
+.icons li img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
